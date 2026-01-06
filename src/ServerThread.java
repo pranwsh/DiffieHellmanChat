@@ -1,9 +1,3 @@
-/*
- * TODO: ricevere/inviare struttura dati al posto della mera stringa,
- * contenente mittente, messaggio (criptato...), cambiare anche le varie 
- * stampe
- */
-
 import java.io.*;
 import java.net.*;
 
