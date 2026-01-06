@@ -5,5 +5,6 @@ javac -d bin @sources.txt
 
 java -cp "bin" Server
 
-CLIENTS
+for the clients:
+
 java -cp "bin" Client <ip> 9999
